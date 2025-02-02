@@ -23,24 +23,32 @@ Final year projects with source code and documentation Includes Source Code, PPT
 10	Bank Record Storage System Using Blockchain	https://youtu.be/ZH3ySXHGrPE?si=3Cw8_86L34jAdvNy
 
 
-Project include:
-Synopsis
+### Project include: 
 
-PPT
+1. Synopsis
 
-Research Paper
+2. PPT
 
-Code
+3. Research Paper
 
-Explanation video
 
-Documents
+4. Code
 
-Report
+5. Explanation video
 
-Need Code, Documents & Explanation video ?
-How to Reach me :
-Mail : vatshayan007@gmail.com
-WhatsApp: +91 9310631437 (Helping 24*7) CHAT
-Website : https://www.finalproject.in/
-Youtube Channel: https://www.youtube.com/@computerscienceproject
+6. Documents
+
+7. Report
+
+
+### Need Code, Documents & Explanation video ? 
+
+## How to Reach me :
+
+### Mail : vatshayan007@gmail.com 
+
+### WhatsApp: +91 9310631437 (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
+
+### Website : https://www.finalproject.in/
+
+### Youtube Channel: https://www.youtube.com/@computerscienceproject
